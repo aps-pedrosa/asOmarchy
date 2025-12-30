@@ -1,0 +1,1 @@
+/home/pedrosa/.config/omarchy/current/theme/neovim.lua
