@@ -10,4 +10,6 @@ source ~/.local/share/omarchy/default/bash/rc
 # Make an alias for invoking commands you use constantly
 # alias p='python'
 
+alias ffp='fastfetch'
+
 export PATH=$PATH:/home/pedrosa/.spicetify
